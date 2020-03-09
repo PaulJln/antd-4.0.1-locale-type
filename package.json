@@ -1,0 +1,21 @@
+{
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "moment": "latest",
+    "antd": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
